@@ -3,9 +3,6 @@ body{
     background-color:#C5E99B;
 }
 
-
-
-
 .header_flam{
     width: 960px;
     margin: 0 auto;
@@ -27,8 +24,6 @@ header{
     display:block;
     width:300px;
 }
-
-
 
 .header_flam>ul{
     display: flex;
@@ -141,6 +136,14 @@ h3{
     width:280px;
     height: 180px;
     margin:15px;
+}
+
+.item_btn{
+    text-decoration: none;
+    font-weight: 900;
+    color: white;
+    background-color: #7AA737;
+    padding-left: 0px 10px;
 }
 
 footer{
