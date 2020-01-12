@@ -66,6 +66,7 @@ header{
 #main{
     clear: left;
     width: 100%;
+    overflow: hidden;
 }
 
 
@@ -158,3 +159,4 @@ footer{
     color:gray;
     margin:0px;
 }
+
